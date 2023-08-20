@@ -79,6 +79,7 @@ email: ''
 highlight_name: true
 ---
 
+👋
 
 I am a first year Computer Science Ph.D. candidate in the [SAND LAB](https://sandlab.cs.uchicago.edu/index.html) at University of Chicago co-advised by Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/) and Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/). My research aims to develop models that can help protect users against malicious attacks. I am excited about problems that revolve around enabling safer and more practical machine learning algorithms. 
 
