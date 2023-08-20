@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: new
+  theme_night: new
   font: minimal
   font_size: L
 
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Anna 💛 '
+    notice: '© {year} Anna 💛 and wowchemcy'
     license:
       enable: true
       allow_derivatives: false
@@ -75,7 +75,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: circle #square
   comment:
     provider: ''
     disqus:
