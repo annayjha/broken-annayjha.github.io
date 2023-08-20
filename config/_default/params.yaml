@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Anna 💛 '
     license:
       enable: true
       allow_derivatives: false
@@ -63,14 +63,14 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
+    theme_light:  github-light
     theme_dark: dracula
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/annayjha/annayjha.git'
     content_dir: content
     branch: main
   avatar:
